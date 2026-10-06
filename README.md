@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Jithin-J-Nair/Jithin-J-Nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Intro](./assets/hero.svg?v=1)
+![About](./assets/about-life.svg?v=1)
+![Stack](./assets/stack.svg?v=1)
+![ID](./assets/id-dashboard.svg?v=1)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | What it is |
+| --- | --- |
+| [Lunify](https://lunify.me) | AI content platform with tiered plans and multi-model routing. |
+| Think Ember | WordPress social community with profiles, forums and gamification. |
+
+<div align="center">
+
+![Connect](./assets/connect.svg?v=1)
+
+[LinkedIn](https://www.linkedin.com/in/jithin-j-nair/) · [GitHub](https://github.com/Jithin-J-Nair) · [Lunify](https://lunify.me)
+
+</div>
