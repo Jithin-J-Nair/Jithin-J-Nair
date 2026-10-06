@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430">
+<rect width="1000" height="430" rx="18" fill="#070b16"/>
+<rect x="1" y="1" width="998" height="428" rx="17" fill="none" stroke="#1c4672"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#dce6f2">
+<text x="42" y="48" font-size="12" letter-spacing="3" fill="#6fe7ff">06 / GITHUB SIGNALS / NATIVE ACTIVITY</text>
+<text x="42" y="92" font-size="34" font-weight="700">THE GRAPH IS THE RECEIPT.</text>
+<text x="42" y="118" font-size="14" fill="#66798f">No third-party counters. No proxy metrics. Just the activity GitHub actually records.</text>
+
+<g transform="translate(42 154)">
+<rect width="438" height="104" rx="12" fill="#0b1424" stroke="#1c4672"/>
+<text x="22" y="30" font-size="11" letter-spacing="2" fill="#6fe7ff">CONTRIBUTION ACTIVITY</text>
+<text x="22" y="61" font-size="18" font-weight="700">LIVE ON PROFILE</text>
+<text x="22" y="83" font-size="12" fill="#66798f">Commits · PRs · Issues · Reviews</text>
+<text x="392" y="65" text-anchor="end" font-size="22" fill="#247bff">01</text>
+</g>
+
+<g transform="translate(520 154)">
+<rect width="438" height="104" rx="12" fill="#0b1424" stroke="#1c4672"/>
+<text x="22" y="30" font-size="11" letter-spacing="2" fill="#6fe7ff">PUBLIC WORK</text>
+<text x="22" y="61" font-size="18" font-weight="700">REPOSITORIES</text>
+<text x="22" y="83" font-size="12" fill="#66798f">Projects · experiments · open source</text>
+<text x="392" y="65" text-anchor="end" font-size="22" fill="#ff354f">02</text>
+</g>
+
+<g transform="translate(42 278)">
+<rect width="916" height="104" rx="12" fill="#091326" stroke="#1c4672"/>
+<text x="22" y="31" font-size="11" letter-spacing="2" fill="#6fe7ff">SOURCE OF TRUTH</text>
+<text x="22" y="62" font-size="18" font-weight="700">GITHUB PROFILE → CONTRIBUTION GRAPH → REPOSITORIES</text>
+<text x="22" y="84" font-size="12" fill="#66798f">Open the profile for the current, verifiable activity record.</text>
+<text x="892" y="65" text-anchor="end" font-size="12" letter-spacing="2" fill="#6fe7ff">OPEN ↗</text>
+</g>
+</g>
+<path d="M42 405H958" stroke="#1c4672"/>
+<text x="42" y="419" font-family="ui-monospace, monospace" font-size="10" fill="#66798f">JITHIN-J-NAIR / PUBLIC ACTIVITY / VERIFIED AT SOURCE</text>
+</svg>
