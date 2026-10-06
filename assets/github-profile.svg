@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 520" width="830" height="520" role="img" aria-label="GitHub profile snapshot: 71 contributions in the past year, four public repositories, two followers, and one starred repository">
+  <title>GitHub profile snapshot · October 2026</title>
+  <defs>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#18223a" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#247bff"/>
+      <stop offset="1" stop-color="#ff354f"/>
+    </linearGradient>
+  </defs>
+  <rect width="830" height="520" rx="22" fill="#070b16"/>
+  <rect width="830" height="520" rx="22" fill="url(#grid)" opacity=".8"/>
+  <rect x="1" y="1" width="828" height="518" rx="21" fill="none" stroke="url(#edge)" stroke-width="2"/>
+  <text x="42" y="43" fill="#8a96b3" font-family="monospace" font-size="12" letter-spacing="3">06 / GITHUB / PUBLIC PROFILE SNAPSHOT</text>
+  <path d="M42 62H788" stroke="#247bff" stroke-width="2"/>
+  <text x="42" y="111" fill="#eef2ff" font-family="Arial, sans-serif" font-weight="700" font-size="31">OPEN SOURCE, IN MOTION.</text>
+  <text x="44" y="140" fill="#8a96b3" font-family="Arial, sans-serif" font-size="15">Jithin-J-Nair · Focusing · Lunify.me · Japan</text>
+  <g font-family="monospace">
+    <rect x="42" y="166" width="177" height="82" rx="12" fill="#0e1628" stroke="#263655"/>
+    <text x="58" y="192" fill="#8a96b3" font-size="11" letter-spacing="1">CONTRIBUTIONS</text>
+    <text x="58" y="229" fill="#eef2ff" font-family="Arial, sans-serif" font-weight="700" font-size="31">71</text>
+    <text x="105" y="227" fill="#8a96b3" font-size="11">PAST YEAR</text>
+    <rect x="231" y="166" width="177" height="82" rx="12" fill="#0e1628" stroke="#263655"/>
+    <text x="247" y="192" fill="#8a96b3" font-size="11" letter-spacing="1">PUBLIC REPOS</text>
+    <text x="247" y="229" fill="#eef2ff" font-family="Arial, sans-serif" font-weight="700" font-size="31">04</text>
+    <rect x="420" y="166" width="177" height="82" rx="12" fill="#0e1628" stroke="#263655"/>
+    <text x="436" y="192" fill="#8a96b3" font-size="11" letter-spacing="1">FOLLOWERS</text>
+    <text x="436" y="229" fill="#eef2ff" font-family="Arial, sans-serif" font-weight="700" font-size="31">02</text>
+    <rect x="609" y="166" width="179" height="82" rx="12" fill="#0e1628" stroke="#263655"/>
+    <text x="625" y="192" fill="#8a96b3" font-size="11" letter-spacing="1">STARRED REPOS</text>
+    <text x="625" y="229" fill="#eef2ff" font-family="Arial, sans-serif" font-weight="700" font-size="31">01</text>
+  </g>
+  <text x="42" y="291" fill="#8a96b3" font-family="monospace" font-size="11" letter-spacing="2">FEATURED REPOSITORIES · CURRENT PROFILE</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="42" y="311" width="361" height="75" rx="12" fill="#0e1628" stroke="#263655"/>
+    <circle cx="64" cy="337" r="5" fill="#3572a5"/>
+    <text x="81" y="342" fill="#eef2ff" font-size="17" font-weight="700">VORTEX</text>
+    <text x="60" y="368" fill="#8a96b3" font-family="monospace" font-size="11">PYTHON</text>
+    <rect x="427" y="311" width="361" height="75" rx="12" fill="#0e1628" stroke="#263655"/>
+    <circle cx="449" cy="337" r="5" fill="#3178c6"/>
+    <text x="466" y="342" fill="#eef2ff" font-size="17" font-weight="700">VORTEX_HUDv2.0</text>
+    <text x="445" y="368" fill="#8a96b3" font-family="monospace" font-size="11">TYPESCRIPT · VORTEX_HUD OMEGA BUILD</text>
+    <rect x="42" y="402" width="361" height="75" rx="12" fill="#0e1628" stroke="#263655"/>
+    <circle cx="64" cy="428" r="5" fill="#3572a5"/>
+    <text x="81" y="433" fill="#eef2ff" font-size="17" font-weight="700">Luna-AI</text>
+    <text x="60" y="459" fill="#8a96b3" font-family="monospace" font-size="11">PYTHON</text>
+    <rect x="427" y="402" width="361" height="75" rx="12" fill="#0e1628" stroke="#263655"/>
+    <circle cx="449" cy="428" r="5" fill="#e34c26"/>
+    <text x="466" y="433" fill="#eef2ff" font-size="17" font-weight="700">Jithin-J-Nair</text>
+    <text x="445" y="459" fill="#8a96b3" font-family="monospace" font-size="11">HTML · PROFILE REPOSITORY</text>
+  </g>
+  <path d="M42 487H788" stroke="#263655"/>
+  <text x="42" y="501" fill="#8a96b3" font-family="monospace" font-size="9" letter-spacing=".6">OCT 2026 · 11 COMMITS TO PROFILE REPOSITORY · 1 REPOSITORY CREATED</text>
+  <text x="42" y="515" fill="#8a96b3" font-family="monospace" font-size="8.5" letter-spacing=".35">71 CONTRIBUTIONS · 4 PUBLIC REPOSITORIES · 2 FOLLOWERS · 0 FOLLOWING · 1 STAR</text>
+</svg>
