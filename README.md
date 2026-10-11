@@ -12,7 +12,7 @@
 | Project | What it is |
 | --- | --- |
 | [Lunify](https://lunify.me) | AI content platform with tiered plans and multi-model routing. |
-| Think Ember | WordPress social community with profiles, forums and gamification. |
+| [Think Ember](https://thinkember.org) | Mother`s Only social community with profiles, forums and gamification. |
 
 <div align="center">
 
